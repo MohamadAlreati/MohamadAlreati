@@ -8,6 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAlreati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-𝐄𝐦𝐚𝐢𝐥:𝐦𝐨𝐡𝐚𝐦𝐚𝐝𝐚𝐥𝐫𝐞𝐚𝐭𝐲@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+📧:𝐦𝐨𝐡𝐚𝐦𝐚𝐝𝐚𝐥𝐫𝐞𝐚𝐭𝐲@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
 
