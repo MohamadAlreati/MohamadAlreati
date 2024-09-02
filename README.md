@@ -1,4 +1,4 @@
-## Hi there !
+## 𝓦𝓮𝓵𝓬𝓸𝓶𝓮
 • I'm Mohammad, a third-year Computer Science student at BGU.<br/>
 • I have a deep passion for volunteering,video editing,and programing.<br/>
 • This GitHub profile showcases my work, including academic assignments and personal projects.<br/>
